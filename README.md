@@ -195,7 +195,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## 👨‍💻 Author
 
 **Haseeb Zahid**  
-GitHub: [@haseebzahid](https://github.com/haseebzahid)
+GitHub: [@haseebzahid](https://github.com/haseebzahid9)
 
 ---
 
