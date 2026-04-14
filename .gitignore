@@ -1,0 +1,22 @@
+# Qt build output
+build/
+*.pro.user
+*.pro.user.*
+Makefile
+*.o
+*.obj
+*.exe
+*.dll
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Data files (personal vault — never upload these)
+master.dat
+vault.dat
+
+# Qt Creator
+*.creator
+*.creator.user
